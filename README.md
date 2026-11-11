@@ -2,7 +2,7 @@
 
 Decentralized escrow and milestone-based logistics platform built with Solidity, Truffle, Ganache, MetaMask, Web3.js, and a plain HTML/CSS/JavaScript frontend.
 
-GitHub repository: [EscrowLogistics](https://github.com/Yong-ss/EscrowLogistics)
+GitHub repository: [EscrowLogistics](https://github.com/LeeManFei/EscrowLogistics)
 
 ## What the dApp does
 
